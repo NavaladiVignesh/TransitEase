@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "287989107795",
+    "project_id": "transitease-6b58a",
+    "storage_bucket": "transitease-6b58a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287989107795:android:9752f26b2f9e69edb1caa6",
+        "android_client_info": {
+          "package_name": "com.example.transitease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287989107795-4j2jkf5s0bkf5khnj9ers5gcn7qv1gjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPPHQYWEeCyIxcUfqoAqCDVpLj_0Fvgls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287989107795-4j2jkf5s0bkf5khnj9ers5gcn7qv1gjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "287989107795-3b5ne3coqejicbgdiuc64u7p3h4lu7h1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.transitease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
